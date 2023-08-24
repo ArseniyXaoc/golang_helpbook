@@ -1,2 +1,2 @@
 # golang_helpbook
-## Slice
+## [Slice](https://github.com/ArseniyXaoc/golang_helpbook/blob/main/Help/Slice.md)!

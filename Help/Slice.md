@@ -5,10 +5,10 @@
 ### Copy
 `copy(dest, src)`
 ### Append
-`s := make([]int, 4, 7)`
-`slice1 := append(s[:2], 2, 3, 4)`
-`slice2 := append(s[1:2], 7)`
-`slice3 := append(s, slice1[1:]...)`
+`s := make([]int, 4, 7)`  
+`slice1 := append(s[:2], 2, 3, 4)`  
+`slice2 := append(s[1:2], 7)`  
+`slice3 := append(s, slice1[1:]...)`  
 ### Sort
 ```
  s := []int{5, 4, 1, 3, 2}
